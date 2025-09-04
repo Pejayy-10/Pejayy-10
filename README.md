@@ -45,12 +45,12 @@
 
 ## 📊 GitHub Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pejayy-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pejayy-10&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pejayy-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Pejayy-10&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pejayy-10&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pejayy-10&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
 </p>
 
 ---
