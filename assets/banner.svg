@@ -1,0 +1,74 @@
+<!-- assets/banner.svg -->
+<!-- Theme: Tokyonight neon | Size: 1280x360 -->
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ====== CONFIG (edit these) ====== -->
+  <defs>
+    <!-- Animated gradient -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9">
+        <animate attributeName="stop-color" values="#0ea5e9;#8b5cf6;#22d3ee;#0ea5e9" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#22d3ee;#0ea5e9;#8b5cf6" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#0ea5e9;#8b5cf6;#22d3ee" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+
+    <!-- Subtle noise texture -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="2" stitchTiles="stitch" seed="7"></feTurbulence>
+      <feColorMatrix type="saturate" values="0"></feColorMatrix>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0 0 0 0.02 0.04 0.02 0"></feFuncA>
+      </feComponentTransfer>
+      <feBlend in2="SourceGraphic" mode="multiply"></feBlend>
+    </filter>
+
+    <!-- Glow filters -->
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="6" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <filter id="glow-soft">
+      <feGaussianBlur stdDeviation="2.5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#334155" stroke-opacity="0.45" stroke-width="1"></path>
+    </pattern>
+
+    <!-- Star symbol -->
+    <symbol id="star">
+      <circle r="1.2" fill="#e2e8f0"></circle>
+    </symbol>
+  </defs>
+
+  <!-- ====== Background layers ====== -->
+  <rect width="1280" height="360" fill="#0b1020"></rect>
+  <rect width="1280" height="360" fill="url(#grad)" opacity="0.18"></rect>
+  <rect width="1280" height="360" fill="url(#grid)" opacity="0.5" transform="skewY(-6) translate(-60, -40)"></rect>
+  <rect width="1280" height="360" filter="url(#noise)" opacity="0.35"></rect>
+
+  <!-- Soft gradient blobs -->
+  <g filter="url(#glow-soft)" opacity="0.6">
+    <circle cx="1100" cy="60" r="180" fill="#8b5cf6" opacity="0.25"></circle>
+    <circle cx="240" cy="300" r="220" fill="#22d3ee" opacity="0.22"></circle>
+    <circle cx="780" cy="240" r="160" fill="#0ea5e9" opacity="0.18"></circle>
+  </g>
+
+  <!-- Floating neon lines -->
+  <g opacity="0.5">
+    <path d="M-40 80 Q 320 120 640 80 T 1320 80" stroke="url(#grad)" stroke-width="2" fill="none">
+      </path></g></svg>
