@@ -55,8 +55,8 @@ My goal is to keep learning and eventually grow into a <b>software architect</b>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Project 2 -->
-  <a href="https://github.com/Pejayy-10/Kasambahay-Connect-Smart-Housekeeping-Service-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=Kasambahay-Connect-Smart-Housekeeping-Service-Platform&theme=tokyonight&hide_border=true&border_radius=12" />
+  <a href="https://github.com/Pejayy-10/KasambahayConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=KasambahayConnect&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 </p>
 
