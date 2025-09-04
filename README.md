@@ -17,24 +17,32 @@ My goal is to keep learning and eventually grow into a <b>software architect</b>
 ---
 
 ## 🛠️ Tech Stack
+
+<h3 align="center">Languages</h3>
 <p align="center">
-
-🌐 <b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,php,go,kotlin,swift" /><br/><br/>
-
-🎨 <b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,flutter" /><br/><br/>
-
-⚙️ <b>Backend & Frameworks</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring" /><br/><br/>
-
-🗄️ <b>Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis" /><br/><br/>
-
-☁️ <b>Cloud & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,docker,postman,figma,github" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,php,go,kotlin,swift" />
 </p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,flutter" />
+</p>
+
+<h3 align="center">Backend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis" />
+</p>
+
+<h3 align="center">Cloud & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,docker,postman,figma,github" />
+</p>
+
 
 ---
 
