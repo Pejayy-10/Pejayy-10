@@ -37,10 +37,10 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Pejayy-10/CoffeeShop-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=CoffeeShop-System&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=peruso_frandilbert_cyclic&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Pejayy-10/Course-Recommender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=Course-Recommender&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pejayy-10&repo=Income-Predictor&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 </p>
 
