@@ -19,24 +19,19 @@ My goal is to keep learning and eventually grow into a <b>software architect</b>
 ## 🛠️ Tech Stack
 <p align="center">
 
-<!-- 🌐 Programming Languages -->
-<b>Languages:</b><br/>
+🌐 <b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,php,go,kotlin,swift" /><br/><br/>
 
-<!-- 🎨 Frontend -->
-<b>Frontend:</b><br/>
+🎨 <b>Frontend</b><br/>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,flutter" /><br/><br/>
 
-<!-- ⚙️ Backend & Frameworks -->
-<b>Backend & Frameworks:</b><br/>
+⚙️ <b>Backend & Frameworks</b><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring" /><br/><br/>
 
-<!-- 🗄️ Databases -->
-<b>Databases:</b><br/>
+🗄️ <b>Databases</b><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis" /><br/><br/>
 
-<!-- ☁️ Cloud & Tools -->
-<b>Cloud & Tools:</b><br/>
+☁️ <b>Cloud & Tools</b><br/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,docker,postman,figma,github" />
 
 </p>
