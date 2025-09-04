@@ -6,11 +6,13 @@
 ---
 
 ## 💫 About Me
-🎓 I’m a **3rd Year Computer Science student** passionate about building tech that makes a difference.  
-💻 Skilled as a **Fullstack Developer**, from crafting clean UIs to designing reliable backends.  
-🌱 Currently exploring **AI/ML**, **Cloud Computing**, and **System Design**.  
-☕ I thrive on tech, good design, and (lots of) coffee.  
-🎯 Long-term goal: To grow into a **Software Architect** and create impactful solutions.  
+<p align="center">
+Hi, I’m Frandilbert 👋 I’m a <b>third-year Computer Science student</b> who enjoys turning ideas into working projects.<br><br>
+I’ve been working as a <b>fullstack developer</b>, building both the frontend that people see and the backend that keeps everything running.<br><br>
+Lately, I’ve been curious about <b>AI/ML</b>, <b>cloud computing</b>, and how to design systems that scale.<br><br>
+Outside of coding, I’m usually diving into new tech trends or just enjoying a good cup of coffee ☕.<br><br>
+My goal is to keep learning and eventually grow into a <b>software architect</b> who builds things that make an impact.
+</p> 
 
 ---
 
