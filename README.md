@@ -1,6 +1,6 @@
 <!-- 🔥 Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Frandilbert+Peruso+👋;Fullstack+Web+Developer+%26+Software+Engineer;3rd+Year+Computer+Science+Student;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="Frandilbert Peruso Banner" width="100%" />
 </p>
 
 <p align="center">
