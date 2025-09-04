@@ -1,7 +1,4 @@
 <!-- 🔥 Hero Section -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="Frandilbert Peruso Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,5,30&text=Welcome%20to%20my%20Profile&fontSize=36&fontAlignY=35&desc=Turning%20Ideas%20into%20Code%20✨&descAlignY=55&descAlign=50"/>
